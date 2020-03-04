@@ -59,5 +59,6 @@
     <dimen name="fp_dialog_error_padding_bottom_fingerprint_in_display">72dp</dimen>
     <!-- FOD recognizing animation -->
     <dimen name="fod_animation_size">280dp</dimen>
+    <dimen name="fod_animation_offset">0dp</dimen>
 
 </resources>
